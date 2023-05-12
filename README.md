@@ -16,7 +16,6 @@
 - 📄 Know about my experiences : [https://www.linkedin.com/in/alex-shuwang/](https://www.linkedin.com/in/alex-shuwang/)
 
 - ⚡ Fun fact :**ambidexter, can do all things with both hands**
-- 
 - ⚡ Fun fact :**Mathematics is my life-long joy**
 
 
