@@ -5,9 +5,9 @@
 
 - 🏫 University of Toronto **HBSC with double specialist in Mathematics & Statistics**
 
-- 🌱 I’m currently learning **NLP,Deep Learning**
-
 - 🏫 Boston University **MSBA Candidate**
+
+- 🌱 I’m currently learning **NLP,Deep Learning**
 
 - 🔭 I’m currently working on **2023 Merck Datathon**
 
