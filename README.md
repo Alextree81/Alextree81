@@ -7,15 +7,15 @@
 
 - 🏫 Boston University **MSBA Candidate**
 
-- 🌱 I’m currently learning **NLP,Deep Learning**
+- 🌱 I’m currently learning :**NLP, Deep Learning**
 
-- 🔭 I’m currently working on **2023 Merck Datathon**
+- 🔭 I’m currently working on :**2023 Merck Datathon**
 
-- 📫 How to reach me **bettershu.wang@mail.utoronto.ca**
+- 📫 How to reach me :**bettershu.wang@mail.utoronto.ca**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/alex-shuwang/](https://www.linkedin.com/in/alex-shuwang/)
+- 📄 Know about my experiences : [https://www.linkedin.com/in/alex-shuwang/](https://www.linkedin.com/in/alex-shuwang/)
 
-- ⚡ Fun fact **ambidexter, can do all things with both hands**
+- ⚡ Fun fact :**ambidexter, can do all things with both hands**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
