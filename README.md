@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm Shu (Alex) Wang</h1>
+<h1 align="center">Greetings 👋, I'm Shu (Alex) Wang</h1>
 
 
 - 🏫 University of Toronto **HBSc with double specialist in Mathematics & Statistics,High Distinction**
