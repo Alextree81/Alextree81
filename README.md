@@ -5,11 +5,11 @@
 
 - 🏫 University of Toronto **HBSc with double specialist in Mathematics & Statistics,High Distinction**
 
-- 🏫 Boston University **MSBA Candidate**
+- 🏫 Boston University **MSBA, Honors with Concentration in Data Science**
 
 - 🌱 I’m currently learning :**NLP, Deep Learning**
 
-- 🔭 I’m currently working on :**2023 Merck Datathon**
+- 🔭 I’m currently working on :
 
 - 📫 How to reach me :**bettershu.wang@mail.utoronto.ca**
 
